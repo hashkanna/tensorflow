@@ -1,8 +1,8 @@
-CIFAR-10 is a common benchmark in machine learning for image recognition.
+GTSRB is a standard dataset of German Traffic Sign Images.
 
-http://www.cs.toronto.edu/~kriz/cifar.html
+http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
 
-Code in this directory demonstrates how to use TensorFlow to train and evaluate a convolutional neural network (CNN) on both CPU and GPU. We also demonstrate how to train a CNN over multiple GPUs.
+Code in this directory demonstrates how to hack the CIFAR-10 example provided by the official TensorFlow code, to train and evaluate a convolutional neural network (CNN) on the German Traffic signs dataset.
 
 Detailed instructions on how to get started available at:
 
